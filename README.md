@@ -115,7 +115,7 @@ Bad: False – Anomaly detected – deepfake or odd geo?
 Ideas? Issues welcome: New phases, UX tweaks, or integrations (e.g., Okta mocks).
 
 ## License
-MIT License—use, modify, share freely. See [LICENSE](LICENSE).
+APACHE License—use, modify, share freely. See [LICENSE](LICENSE).
 
 ## Acknowledgments
 - NIST for SP 800-207 foundation.
@@ -124,7 +124,7 @@ MIT License—use, modify, share freely. See [LICENSE](LICENSE).
 
 ## Contact
 Daniel Yewenu – (mailto:yewenusewedo@gmail.com)  
-Project Link: [https://github.com/yourusername/ZT-HybridGuard](https://github.com/yourusername/ZT-HybridGuard)
+Project Link: (https://github.com/Thinkersjnr1/Zero-Trust-Architecture-Hybrid)
 
 ---
 
