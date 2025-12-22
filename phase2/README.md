@@ -1,7 +1,7 @@
 # ZT-HybridGuard: Phase 2 – Framework Design
 
 ## Overview
-Phase 2 architects ZT for NexTech: 5 pillars, 5+ policies, and access flows turning Phase 1 threats into proactive defenses. NIST tenets guide—e.g., explicit verification blocks 90% spoof/tamper. Scalable for hybrid (sub-2s flows, no VPN drag).
+Phase 2 architects ZT for NexTech: 5 pillars, 5+ policies, and access flows turning Phase 1 threats into proactive defenses. NIST tenets guide e.g., explicit verification blocks 90% spoof/tamper. Scalable for hybrid (sub-2s flows, no VPN drag).
 
 ## Pillars Table
 | Pillar | Focus | NexTech Twist | Threat Tie | NIST Tenet |
