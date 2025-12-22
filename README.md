@@ -1,12 +1,15 @@
 # Zero-Trust-Architecture-Hybrid
-NIST SP 800-207-powered framework tackling hybrid risks (spoofing CVSS 8.1 to elevation 8.8) for teams like NexTech (AWS/O365/VPN mix). Phase-by-phase: Threat modeling (STRIDE/personas), blueprints (pillars/policies/flows), PoC (Python/Terraform/AWS). 70%+ risk slash, seamless UX. Built with AWS Cloud Practitioner skills—open for collabs!
+NIST SP 800-207-powered framework tackling hybrid risks (spoofing CVSS 8.1 to elevation 8.8) for teams like NexTech (AWS/O365/VPN mix). Phase-by-phase: Threat modeling (STRIDE/personas), blueprints (pillars/policies/flows), PoC (Python/Terraform/AWS). 70%+ risk slash, seamless UX. Built with AWS Cloud Practitioner skills
+
+open for collabs!
+
 # ZT-HybridGuard: Zero Trust Framework for Hybrid Enterprises
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![AWS Cloud Practitioner Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange.svg)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-A NIST SP 800-207-inspired Zero Trust Architecture (ZTA) framework designed for hybrid work environments, such as NexTech Solutions (500+ users blending AWS cloud workloads, O365 collaboration tools, and legacy VPNs). This project demonstrates a phased approach to modeling threats, designing defenses, prototyping implementations, testing efficacy, and documenting outcomes—achieving 70%+ risk reduction through adaptive verification, micro-segmentation, and continuous monitoring.
+A NIST SP 800-207-inspired Zero Trust Architecture (ZTA) framework designed for hybrid work environments, such as NexTech Solutions (500+ users blending AWS cloud workloads, O365 collaboration tools, and legacy VPNs). This project demonstrates a phased approach to modeling threats, designing defenses, prototyping implementations, testing efficacy, and documenting outcomes achieving 70%+ risk reduction through adaptive verification, micro-segmentation, and continuous monitoring.
 
 Built with practical tools like Python for anomaly detection, Terraform for infrastructure-as-code, and AWS Free Tier for PoC labs. Inspired by real-world hybrid challenges, including AI-enhanced threats like deepfake spoofing.
 
@@ -119,7 +122,7 @@ APACHE License—use, modify, share freely. See [LICENSE](LICENSE).
 
 ## Acknowledgments
 - NIST for SP 800-207 foundation.
-- AWS Cloud Practitioner mentors: Rudy Chetty, Morgan Willis, Alan Meridian—their course insights powered the PoC cloud labs.
+- AWS Cloud Practitioner mentors: Rudy Chetty, Morgan Willis, Alan Meridian their course insights powered the PoC cloud labs.
 - Community: Gartner reports, Verizon DBIR for hybrid stats.
 
 ## Contact
@@ -128,4 +131,4 @@ Project Link: (https://github.com/Thinkersjnr1/Zero-Trust-Architecture-Hybrid)
 
 ---
 
-*Stars and forks appreciated—let's secure hybrid futures together!* 🚀
+*Stars and forks appreciated let's secure hybrid futures together!* 🚀
