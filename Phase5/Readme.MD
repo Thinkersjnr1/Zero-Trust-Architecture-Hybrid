@@ -9,7 +9,7 @@ ROI: $100K+ savings.
 ## Demo
 3-min script: Threats → PoC → Metrics.
 
-[video.mp4](docs/demo.mp4)
+
 
 ## Launch
 - GitHub: Star/fork.
